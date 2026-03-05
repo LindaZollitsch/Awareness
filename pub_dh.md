@@ -18,7 +18,7 @@ title:  Flyer zum Publikationsprozess für Geisteswissenschaften
 
 link: https://cau-git.rz.uni-kiel.de/elBB4RDM/fdm-sh-boerse/-/blob/main/style_css.css
 
-comment:  Überblick über wesentliche Aspekte des Publikationsprozesses
+comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Geisteswissenschaften, digital humanities
 
 -->
 
@@ -58,7 +58,7 @@ style="
        
      .--------------------.         .---------------.
     / Datendokumentation /         / Datenqualität /
-   /--------------------/         /---------------/
+    --------------------           ---------------
 
 
 ``` 
@@ -69,6 +69,8 @@ style="
 
 ### Was ist eine Textpublikation
 
+-- hier Bild einfügen von Beispielen --
+
 - Dissertation
 
 - Artikel
@@ -77,10 +79,17 @@ style="
 
 - Sammelbände
 
+- usw.
+
 
 ### Was ist eine Datenpublikation
 
 https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/daten-publizieren/
+
+- was sind Daten
+
+-- hier Bild einfügen von Beispielen --
+
 
 ### Formen der Datenpublikation
 
@@ -89,6 +98,8 @@ https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/daten-publi
 - Datenpublikation in Datenjournalen
 
 - Datensupplemente
+
+erläutern und Beispiele dafür zeigen
 
 
 ## Publikationswege
@@ -116,22 +127,21 @@ https://www.uni-muenster.de/Publizieren/veroeffentlichung/dateierstellung/
 
 https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/
 
-#### File formats
+**Dateiformate für eine Publikation auswählen**
 
-**Choosing file formats**
-
->-> Non-Proprietary, unencrypted, uncompressed and commonly used
+>-> Nicht proprietär, unverschlüsselt, unkomprimiert und weit verbreitet
 >
->-> Open-standard-compliant, documented and royalty-free
+>-> Offener Standard, dokumentiert und lizenzgebührenfrei
 
-| Data Type    | Recommended | Trade-off Matter | Not Recommented |
+
+| Datentyp     | Empfohlen   | Trade-off Matter | Nicht Empfohlen |
 | ------------ | ----------- | ---------------- | --------------- |
-| Tabular      | CSV, TSV, ODS| XLSX, SPSS portable| XLS, SPSS |
-| Textual      |TXT, MD, HTML, ODT | DOCX, RTF, PDF/A | DOC, PDF, PS |
+| Tabellen     | CSV, TSV, ODS| XLSX, SPSS portable| XLS, SPSS |
+| Texte        |TXT, MD, HTML, ODT | DOCX, RTF, PDF/A | DOC, PDF, PS |
 | Presentation | ODP, HTML   |  PPTX            |   PPT           |
-| video        |MP4, MKV, OGG|  WEBM            | WMV, MOV, QT, Flash|
+| Video        |MP4, MKV, OGG|  WEBM            | WMV, MOV, QT, Flash|
 | Audio        | MP4, FLAC, WAV, OGG | MP3, AIF |                 |
-| Image        | TIFF, PNG   |  BMP, JPG        |   PSD, GIF      |
+| Bilder       | TIFF, PNG   |  BMP, JPG        |   PSD, GIF      |
 | Vector       |  SVG        |                  |     AI          |
 | Generic      |  XML, JSON, RDF |              |                 |
 | Container    | Bagit, Frictionless, Data Package| ZIP, TAR |      |
@@ -153,31 +163,31 @@ https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/datendokumenta
 
 https://www.forschungsdaten-bildung.de/datenmanagement/dokumentieren-aufbereiten/
 
-**A good data documentation should include**
+**Eine gute Datendokumentation sollte folgendes enthalten**
 
-  - Information on the collection of data
+  - Informationen zu der Datensammlung
 
-      - Methods, units, time periods, locations, technique used, etc.
+      - Methoden, Einheiten, Zeit, Ort, genutzte Technik, usw.
 
-  - Structure of the data and their mutual relationships
+  - Struktur der Daten und deren Beziehung miteinander
 
-  - Explanation of variables, labels and codes
+  - Erklärung der Variablen, Explanation of variables, Labels und Codes
 
-  - Differences between different data set versions
+  - Unterschiede zwischen verschiedenen Versionen von Datensets
 
-  - Measures for data cleaning
+  - Maßnahmen zur Datenbereinigung
 
-  - Information on access and terms of use
+  - Informationen über Zugang und Nutzungsbedingungen
 
-      - Licensing
+      - Lizenzen
 
-  - Ideal world
+  - In einer idealen Welt
 
-      - Description of the research undertaking
+      - Beschreibung des Forschungsvorhabens
 
-        - Goals
+        - Ziele
 
-      - Hypotheses
+      - Hypothesen
 
 
 ## Metadaten
@@ -186,34 +196,35 @@ https://forschungsdaten.info/themen/beschreiben-und-dokumentieren/metadaten-und-
 
 ### Was sind Metadaten
 
-Metdata is...
+Metdata sind...
 
-- Data about data
+- Daten über Daten
 
-- Administrative data
+- Administrative Daten
 
-  - Information on the management of the data
+  - Informationen zum Datenmanagement
 
-  - Mostly generic
+  - Größtenteils generisch
 
 - Subject data
 
-  - Individual aspects or data sets in more detail
+  - Einzelne Aspekte oder Datensätze im Detail
 
-  - Structured with respect to the research discipline
+  - Strukturiert nach den Anforderungen der Forschungsdisziplin
 
-- Generic standards
+
+
+### Was sind Metadatenstandards
+
+- Generische Standards
 
   - [DataCite Metadata Schema](https://schema.datacite.org/)
 
   - [Dublin Core Metadata Initiative](https://dublincore.org/)
 
-- Discipline-specific standards
+- Disciplin-spezifische Standards
 
   - [Metadata Standards Directory](https://rdamsc.bath.ac.uk/)
-
-
-### Was sind Metadatenstandards
 
 
 
@@ -241,14 +252,6 @@ Persistente Identifikatoren gibt es (unter anderem) für:
 "Ein Persistent Identifier ist definiert als ein dauerhafter (persistenter), digitaler Identifikator, bestehend aus Ziffern und/oder alphanumerischen Zeichen, welcher einem Datensatz (oder einem anderen digitalen Objekt) zugeordnet wird und direkt auf diesen verweist."
 
 (https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/)
-
-********************************************************************************
-
-{{3}}
-********************************************************************************
->"A persistent identifier (PID) is a long-lasting reference to a digital resource and provides the information required to reliably identify, verify and locate your research data eliminating many misunderstandings. A PID may also be connected to a set of metadata which describes a digital resource." 
->
->(https://howtofair.dk/how-to-fair/persistent-identifiers/)
 
 ********************************************************************************
 
@@ -384,22 +387,22 @@ https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeff
 
 {{0-1}}
 *******************
-- Licenses regulate conditions of subsequent use of published data.
-- Free licenses allow the use, redistribution and modification of copyrighted works
+- Lizenzen regeln die Bedingungen für die weitere Nutzung veröffentlichter Daten
+- Freie Lizenzen erlauben die Nutzung, Weiterverbreitung und Bearbeitung urheberrechtlich geschützter Werke
 
-  - are usually available for free use and only need to be linked to
-  - Prerequisite is that you are the copyright holder
+  - sie sind in der Regel kostenlos verfügbar und müssen lediglich verlinkt werden
+  - Voraussetzung ist, dass Sie der Urheberrechtsinhaber sind
 
 
-Selection of the license depends on the type of data:
+Die Wahl der Lizenz hängt von der Art der Daten ab:
 
-  - e.g. Creative Commons (CC) licenses for articles, monographs, images, etc.
+  - z. B. Creative-Commons-Lizenzen (CC) für Artikel, Monografien, Bilder usw.
 
-  - Open-Database-License (ODbL) for DB or CC starting with version 4
+  - Open-Database-Lizenz (ODbL) für Datenbanken oder CC ab Version 4
 
-  - General Public License (GNU) for software
+  - GNU General Public License (GPL) für Software
 
-- If no license is granted, the stricter copyright applies, as far as applicable to data
+- Wird keine Lizenz erteilt, gelten die strengeren Urheberrechtsbestimmungen, soweit sie auf die Daten anwendbar sind
 
 ***********
 
@@ -407,7 +410,7 @@ Selection of the license depends on the type of data:
 
 {{1-2}}
 ******************
-> **CC-Licenses**
+> **CC-Lizenzen**
 
 ><div style="width:100%;">
   <img src="images/cc-licenses.png" alt="CC-Licenses">
