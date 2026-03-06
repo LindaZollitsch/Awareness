@@ -99,9 +99,24 @@ https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/daten-publi
 
 - Datenpublikation in Datenjournalen
 
+publish detailed description of data, partly peer-reviewed
+
 - Datensupplemente
 
+Supplement to a peer-reviewed article ("enhanced publication"), as a supplement to the associated article, as a data set in a repository with a link to the corresponding article.
+
 erläutern und Beispiele dafür zeigen
+
+## Repositorien
+
+https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/
+
+* Disciplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
+
+* Disziplinübergreifende Repositorien, z.B. [ZENODO](https://zenodo.org/)
+
+* Institutionelle Repositorien, z.B. [opendata@uni-kiel.de](https://opendata.uni-kiel.de/content/index.xml?lang=en), [MACAU] (https://macau.uni-kiel.de/content/index.xml)
+
 
 
 ## Publikationswege
@@ -128,27 +143,6 @@ https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Einrichtungen/UB/Leit
 https://www.uni-muenster.de/Publizieren/veroeffentlichung/dateierstellung/
 
 https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/
-
-**Dateiformate für eine Publikation auswählen**
-
->-> Nicht proprietär, unverschlüsselt, unkomprimiert und weit verbreitet
->
->-> Offener Standard, dokumentiert und lizenzgebührenfrei
-
-
-| Datentyp     | Empfohlen   | Trade-off Matter | Nicht Empfohlen |
-| ------------ | ----------- | ---------------- | --------------- |
-| Tabellen     | CSV, TSV, ODS| XLSX, SPSS portable| XLS, SPSS |
-| Texte        |TXT, MD, HTML, ODT | DOCX, RTF, PDF/A | DOC, PDF, PS |
-| Presentation | ODP, HTML   |  PPTX            |   PPT           |
-| Video        |MP4, MKV, OGG|  WEBM            | WMV, MOV, QT, Flash|
-| Audio        | MP4, FLAC, WAV, OGG | MP3, AIF |                 |
-| Bilder       | TIFF, PNG   |  BMP, JPG        |   PSD, GIF      |
-| Vector       |  SVG        |                  |     AI          |
-| Generic      |  XML, JSON, RDF |              |                 |
-| Container    | Bagit, Frictionless, Data Package| ZIP, TAR |      |
-
-<div style="page-break-after: always;"></div>
 
 ## Datenqualität und Qualitätskriterien für eine Publikation
 
@@ -227,6 +221,29 @@ Metdata sind...
 - Disciplin-spezifische Standards
 
   - [Metadata Standards Directory](https://rdamsc.bath.ac.uk/)
+
+
+
+**Dateiformate für eine Publikation auswählen**
+
+>-> Nicht proprietär, unverschlüsselt, unkomprimiert und weit verbreitet
+>
+>-> Offener Standard, dokumentiert und lizenzgebührenfrei
+
+
+| Datentyp     | Empfohlen   | Trade-off Matter | Nicht Empfohlen |
+| ------------ | ----------- | ---------------- | --------------- |
+| Tabellen     | CSV, TSV, ODS| XLSX, SPSS portable| XLS, SPSS |
+| Texte        |TXT, MD, HTML, ODT | DOCX, RTF, PDF/A | DOC, PDF, PS |
+| Presentation | ODP, HTML   |  PPTX            |   PPT           |
+| Video        |MP4, MKV, OGG|  WEBM            | WMV, MOV, QT, Flash|
+| Audio        | MP4, FLAC, WAV, OGG | MP3, AIF |                 |
+| Bilder       | TIFF, PNG   |  BMP, JPG        |   PSD, GIF      |
+| Vector       |  SVG        |                  |     AI          |
+| Generic      |  XML, JSON, RDF |              |                 |
+| Container    | Bagit, Frictionless, Data Package| ZIP, TAR |      |
+
+<div style="page-break-after: always;"></div>
 
 
 
@@ -379,9 +396,7 @@ offen, transparent, nicht proprietär
 
 -----
 
-## Repositorium
 
-https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/
 
 ## Lizenzen
 
