@@ -16,7 +16,7 @@ licence: CC-BY
 
 title:  Flyer zum Publikationsprozess für Geisteswissenschaften
 
-link: https://cau-git.rz.uni-kiel.de/elBB4RDM/fdm-sh-boerse/-/blob/main/style_css.css
+link: images/style_css.css
 
 comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Geisteswissenschaften, digital humanities
 
@@ -32,6 +32,10 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 > Bei Fragen wenden Sie sich bitte an uns: [Zentrales Forschungsdatenmanagement](https://www.fdm.uni-kiel.de/de)
 >
 > Dieses Werk ist lizensiert unter CC-BY (https://creativecommons.org/licenses/by/4.0/)
+
+
+
+## Text- und Datenpublikation
 
 
 <!--
@@ -58,13 +62,10 @@ style="
        
      .--------------------.         .---------------.
     / Datendokumentation /         / Datenqualität /
-   '--------------------´          ---------------´
+   '--------------------´         '---------------´
 
 
 ``` 
-
-## Text- und Datenpublikation
-
 
 
 ### Was ist eine Textpublikation
