@@ -34,8 +34,9 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 
 Was ist eine Publikation
 
-Was bedeutet publizieren
+Was bedeutet Publizieren (im Kontext von Wissenschaft)
 
+"Die Grundfunktionen des wissenschaftlichen Publizierens sind die Bekanntmachung, Qualitätsprüfung und Dokumentation wissenschaftlicher Erkenntnisse sowie die Zuschreibung von Urheberschaft und Reputation. Wissenschaftsadäquates Publizieren beinhaltet die freie Wahl von Publikationsform und -ort, die Sicherung der Verwertungs- bzw. Nutzungsrechte durch die Publizierenden sowie den freien Zugang (Open Access) zu Publiziertem." (DFG) (https://www.dfg.de/de/grundlagen-themen/entwicklungen-im-wissenschaftssystem/publikationswesen)
 
 ## Text- und Datenpublikation
 
