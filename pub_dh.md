@@ -10,13 +10,13 @@ language: de
 
 narrator: 
 
-icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     LindaZollitsch/Awareness/images/cau-norm-en-lilagrey-rgb.png
 
 licence: CC-BY
 
 title:  Flyer zum Publikationsprozess für Geisteswissenschaften
 
-link: style_css.css
+link: LindaZollitsch/Awareness/style_css.css
 
 comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Geisteswissenschaften, digital humanities
 
