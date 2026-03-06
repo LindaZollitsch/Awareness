@@ -30,8 +30,14 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 
 
 
-## Text- und Datenpublikation
+## Publikation?
 
+Was ist eine Publikation
+
+Was bedeutet publizieren
+
+
+## Text- und Datenpublikation
 
 <!--
 style="
@@ -61,7 +67,6 @@ style="
 
 
 ``` 
-
 
 ### Was ist eine Textpublikation
 
