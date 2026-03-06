@@ -1,22 +1,17 @@
 <!--
 
 author:   Linda Zollitsch
-
 email:    zollitsch@ub.uni-kiel.de
-
 version:  0.1.0
-
 language: de
+narrator: UK English Female
 
-narrator: 
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
-icon:     LindaZollitsch/Awareness/images/cau-norm-en-lilagrey-rgb.png
-
-licence: CC-BY
-
+link: style_css.css
+  
 title:  Flyer zum Publikationsprozess für Geisteswissenschaften
-
-link: LindaZollitsch/Awareness/style_css.css
+licence: CC-BY
 
 comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Geisteswissenschaften, digital humanities
 
