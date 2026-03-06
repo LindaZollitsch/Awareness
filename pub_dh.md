@@ -247,7 +247,7 @@ Metdata sind...
 
 
 
-## Persistente Identifikatoren (PID)
+## Persistente Identifier (PID)
 
 https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/persistente-identifikatoren/
 
@@ -378,7 +378,7 @@ offen, transparent, nicht proprietär
 
 ********************************************************************************
 
-### Vorteile von Persistent Identifiers
+#### Vorteile von Persistenten Identifiern
 
 -----
 
