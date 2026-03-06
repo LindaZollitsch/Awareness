@@ -16,7 +16,7 @@ licence: CC-BY
 
 title:  Flyer zum Publikationsprozess für Geisteswissenschaften
 
-link: images/style_css.css
+link: style_css.css
 
 comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Geisteswissenschaften, digital humanities
 
