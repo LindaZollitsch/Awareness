@@ -1,6 +1,6 @@
 <!--
 
-author:   Linda Zollitsch
+author:   Linda Zollitsch, Zentrales Forschungsdatenmanagement Der Christian-Albrecht-Universität zu Kiel, FDM-SH bOERse
 email:    zollitsch@ub.uni-kiel.de
 version:  0.1.0
 language: de
@@ -32,11 +32,13 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 
 ## Publikation?
 
-Was ist eine Publikation
+- Was ist eine Publikation?
 
-Was bedeutet Publizieren (im Kontext von Wissenschaft)
+> "Eine Publikation verbreitet wissenschaftliche Ergebnisse als Artikel in Fachmedien, Büchern oder Online-Plattformen. Sie ermöglicht den Austausch und die Diskussion wissenschaftlicher Forschungsergebnisse innerhalb der wissenschaftlichen Gemeinschaft und ist zentral für die Wissenschaftskommunikation." (https://www.alumniportal-deutschland.org/de/magazin/wissenschaft-forschung/glossar/publikation/, letzter Zugriff am 09.03.2026, 08:48)
 
-"Die Grundfunktionen des wissenschaftlichen Publizierens sind die Bekanntmachung, Qualitätsprüfung und Dokumentation wissenschaftlicher Erkenntnisse sowie die Zuschreibung von Urheberschaft und Reputation. Wissenschaftsadäquates Publizieren beinhaltet die freie Wahl von Publikationsform und -ort, die Sicherung der Verwertungs- bzw. Nutzungsrechte durch die Publizierenden sowie den freien Zugang (Open Access) zu Publiziertem." (DFG) (https://www.dfg.de/de/grundlagen-themen/entwicklungen-im-wissenschaftssystem/publikationswesen)
+- Was bedeutet Publizieren (im Kontext von Wissenschaft)
+
+> "Die Grundfunktionen des wissenschaftlichen Publizierens sind die Bekanntmachung, Qualitätsprüfung und Dokumentation wissenschaftlicher Erkenntnisse sowie die Zuschreibung von Urheberschaft und Reputation. Wissenschaftsadäquates Publizieren beinhaltet die freie Wahl von Publikationsform und -ort, die Sicherung der Verwertungs- bzw. Nutzungsrechte durch die Publizierenden sowie den freien Zugang (Open Access) zu Publiziertem." (DFG) (https://www.dfg.de/de/grundlagen-themen/entwicklungen-im-wissenschaftssystem/publikationswesen)
 
 ## Text- und Datenpublikation
 
