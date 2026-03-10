@@ -70,7 +70,7 @@ style="
            |  Texte  |   +   |  Daten  | 
            |         |       |         |  
            +---------+       +---------+  
-           
+
                                             .--------.
                           .------------.    | Lizenz |
                           |            |--->'--------'
@@ -117,11 +117,25 @@ https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/daten-publi
 
 ### Formen der Datenpublikation
 
+{{1-2}}
+************
+
 - Datenpublikation in Online-Repositorien
+
+
+************
+
+{{2-3}}
+************
 
 - Datenpublikation in Datenjournalen
 
 publish detailed description of data, partly peer-reviewed
+
+************
+
+{{3}}
+************
 
 - Datensupplemente
 
@@ -129,11 +143,13 @@ Supplement to a peer-reviewed article ("enhanced publication"), as a supplement 
 
 erläutern und Beispiele dafür zeigen
 
+************
+
 ## Repositorien
 
 https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/repositorien/
 
-* Disciplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
+* Disziplinspezifische Repositorien, z.B. [Datorium](https://data.gesis.org/sharing/#!Home), [Pangaea](https://www.pangaea.de/)
 
 * Disziplinübergreifende Repositorien, z.B. [ZENODO](https://zenodo.org/)
 
