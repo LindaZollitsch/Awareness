@@ -32,13 +32,32 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 
 ## Publikation?
 
+{{1-3}}
+************
+
 - Was ist eine Publikation?
 
+************
+
+{{2-3}}
+************
 > "Eine Publikation verbreitet wissenschaftliche Ergebnisse als Artikel in Fachmedien, Büchern oder Online-Plattformen. Sie ermöglicht den Austausch und die Diskussion wissenschaftlicher Forschungsergebnisse innerhalb der wissenschaftlichen Gemeinschaft und ist zentral für die Wissenschaftskommunikation." (https://www.alumniportal-deutschland.org/de/magazin/wissenschaft-forschung/glossar/publikation/, letzter Zugriff am 09.03.2026, 08:48)
+
+************
+
+{{3}}
+************
 
 - Was bedeutet Publizieren (im Kontext von Wissenschaft)
 
+************
+
+{{4}}
+************
+
 > "Die Grundfunktionen des wissenschaftlichen Publizierens sind die Bekanntmachung, Qualitätsprüfung und Dokumentation wissenschaftlicher Erkenntnisse sowie die Zuschreibung von Urheberschaft und Reputation. Wissenschaftsadäquates Publizieren beinhaltet die freie Wahl von Publikationsform und -ort, die Sicherung der Verwertungs- bzw. Nutzungsrechte durch die Publizierenden sowie den freien Zugang (Open Access) zu Publiziertem." (DFG) (https://www.dfg.de/de/grundlagen-themen/entwicklungen-im-wissenschaftssystem/publikationswesen)
+
+************
 
 ## Text- und Datenpublikation
 
@@ -46,11 +65,12 @@ comment:  Überblick über wesentliche Aspekte des Publikationsprozesses für Ge
 style="
   background-color: #fee1ff;" -->
 ``` ascii
-           +---------+   +---------+
-           |         |   |         |  
-           |  Texte  | + |  Daten  | 
-           |         |   |         |  
-           +---------+   +---------+  
+           +---------+       +---------+
+           |         |       |         |  
+           |  Texte  |   +   |  Daten  | 
+           |         |       |         |  
+           +---------+       +---------+  
+           
                                             .--------.
                           .------------.    | Lizenz |
                           |            |--->'--------'
